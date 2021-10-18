@@ -1,2 +1,2 @@
 # Mid1-Project
-Flower Shop web-site
+Yoga web-site
